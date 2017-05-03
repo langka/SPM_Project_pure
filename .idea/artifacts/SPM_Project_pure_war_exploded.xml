@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SPM_Project_pure:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SPM_Project_pure_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SPM_Project_pure" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="SPM_Project_pure/web/Web" />
+    </root>
+  </artifact>
+</component>
